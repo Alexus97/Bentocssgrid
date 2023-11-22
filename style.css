@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f2f2f2;
+    font-family: 'Arial';
+}
+
+.container__card {
+    width: 300px;
+    padding: 0 0 30px;
+    margin: 30px auto;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.amplificador__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__container {
+    width: 90%;
+    margin 0 auto;
+    overflow: hidden;
+}
+
+.card__titulo {
+    color: rgb(68, 68, 68);
+    text-align: center;
+    margin: 20px 0;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.card__boton {
+    display: block;
+    background: rgb(189, 14, 50);
+    padding: 13px 0;
+    color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    width: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+
+.amplificador__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.accesorios__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.audifonos__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.altavoces__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.consola__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.equipodj__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.iluminacion__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.produccion_musical__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.microfono__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
+.procesadores__img {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+.card__price {
+    text-align: center;
+    color: rgb(68, 68, 68);
+    margin: 20px 0;
+}
+
